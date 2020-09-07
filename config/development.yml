@@ -1,0 +1,8 @@
+db:
+  host: 'localhost'
+  username: 'completar'
+  password: 'completar'
+  synchronize: true
+
+jwt:
+  secret: 'woowSecret'
